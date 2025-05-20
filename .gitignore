@@ -1,0 +1,108 @@
+# Ambientes virtuais
+venv/
+.env/
+.venv/
+env/
+*.env
+
+# Jupyter Notebooks temporários
+.ipynb_checkpoints/
+
+# Arquivos Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs e saídas
+*.log
+*.out
+*.err
+
+# Arquivos de configuração de IDEs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Dados em formatos brutos
+*.csv
+*.tsv
+*.xls
+*.xlsx
+*.parquet
+*.json
+*.xml
+*.yaml
+*.yml
+*.db
+*.sqlite3
+
+# Arquivos de imagem - bitmap
+*.png
+*.jpg
+*.jpeg
+*.bmp
+*.gif
+*.tiff
+*.ico
+
+# Arquivos de imagem - vetoriais
+*.svg
+*.eps
+*.ps
+*.ai
+*.pdf
+
+# Executáveis e binários
+*.exe
+*.dll
+*.so
+*.dylib
+*.bin
+*.run
+*.app
+*.msi
+*.sh
+
+# Arquivos de backup e temporários
+*.bak
+*.tmp
+*.swp
+*.~*
+*~
+
+# Arquivos Office
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+*.ods
+*.odt
+
+# Modelos treinados e grandes binários
+*.h5
+*.hdf5
+*.pb
+*.pt
+*.pth
+*.joblib
+*.pkl
+*.sav
+
+# Checkpoints e histórico de execução
+checkpoints/
+*.ckpt
+
+# Diretórios comuns de saída de notebooks/scripts
+outputs/
+runs/
+results/
+logs/
+__results__/
+
+# Arquivos específicos de ferramentas
+.DS_Store
+Thumbs.db
+desktop.ini
